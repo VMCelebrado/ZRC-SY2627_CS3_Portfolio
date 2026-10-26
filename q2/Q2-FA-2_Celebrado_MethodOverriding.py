@@ -1,4 +1,3 @@
-
 class Patient:
     def __init__(self, name: str, bill_amount: float):
         self.__name = name
